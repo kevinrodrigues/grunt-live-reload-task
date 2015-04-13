@@ -7,9 +7,9 @@ Things you need to get started:
 
 They are:
 
-grunt-contrib-connect, to serve the files of our project
-grunt-regarde, to monitor the file changes
-grunt-contrib-livereload, to reload the page in the browser
+* grunt-contrib-connect, to serve the files of our project
+* grunt-regarde, to monitor the file changes
+* grunt-contrib-livereload, to reload the page in the browser
 
 
 Which gives us the following package.json file:
