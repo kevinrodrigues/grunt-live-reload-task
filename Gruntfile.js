@@ -63,7 +63,7 @@ module.exports = function(grunt) {
     'livereload-start',
     'connect',
     // Connect is no longer blocking other tasks, so it makes more sense to open the browser after the server starts
-    // 'open',
+    'open',
     // Starts monitoring the folders and keep Grunt alive
     'regarde'
   ]);
