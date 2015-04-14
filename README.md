@@ -3,7 +3,7 @@
 
 Things you need to get started:
 
-* package.json (Sits at the root of your project) - lists the Grunt plugins we'll use:
+* package.json (sits at the root of your project) - lists the Grunt plugins we'll use:
 
 They are:
 
